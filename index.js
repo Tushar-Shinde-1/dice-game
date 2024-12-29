@@ -7,7 +7,7 @@ var assign1="images/dice"+random2+".png";
 document.querySelectorAll("img")[1].setAttribute("src",assign1);
 if(random1>random2)
 {
-    document.querySelectorAll("h1")[0].innerHTML="player 1 won ";
+    document.querySelectorAll("h1")[0].innerHTML="🏆 Player 1 won ";
 }
 else if(random1==random2)
 {
@@ -15,5 +15,5 @@ document.querySelectorAll("h1")[0].innerHTML="tie ";
 
 }
 else{
-    document.querySelector("h1").innerHTML="player 2 win";
+    document.querySelector("h1").innerHTML="🏆 Player 2 win";
 }
