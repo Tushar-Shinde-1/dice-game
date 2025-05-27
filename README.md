@@ -45,7 +45,5 @@ Dicee-Game/
 
 ---
 
-## 👨‍💻 Author
-
-Made with ❤️ by Tushar.
+## It is for Entertainment Purpose
 
