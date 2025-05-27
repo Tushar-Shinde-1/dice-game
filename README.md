@@ -6,7 +6,8 @@ A simple dice game built using **HTML5**, **CSS3**, and **JavaScript**. Two play
 
 ## 📸 Preview
 
-![Dice Image](images/dice6.png)
+![Screenshot 2025-05-26 112836](https://github.com/user-attachments/assets/0cc1eb2c-280d-4f1a-bdc5-84d389d5239e)
+
 
 ---
 
