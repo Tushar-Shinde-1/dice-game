@@ -45,5 +45,5 @@ Dicee-Game/
 
 ---
 
-## It is for Entertainment Purpose
+## It is made for Entertainment Purpose
 
